@@ -41,6 +41,34 @@ int main() {
     return 0;
 }
 ```
+### 🛠️ **How to Open and Run the Program in Visual Studio**  
+
+#### **1 Open Visual Studio**  
+- Launch **Visual Studio** on your computer.  
+- If you don’t have it installed, you can download it from [Visual Studio's official site](https://visualstudio.microsoft.com/).  
+
+#### **2 Open the Project**  
+- Click **File > Open > Project/Solution**.  
+- Navigate to the folder where your **project files** are stored.  
+- Select **`Input Output Sample.sln`** (or **`Input Output Sample.vcxproj`** if no solution file exists).  
+
+#### **3 Build the Project**  
+- Ensure that **C++ is set as the programming language**.  
+- Click **Build > Build Solution** or press **Ctrl + Shift + B**.  
+- If there are no errors, the project will compile successfully.  
+
+#### **4 Run the Program**  
+- Click the **"Start" button** or press **F5** to run the program in **Debug Mode**.  
+- Alternatively, click **Debug > Start Without Debugging** (`Ctrl + F5`) for a direct execution.  
+
+#### **5 Enter Input**  
+- Once the console opens, **follow the prompts** by entering your **name** and **age** when asked.  
+- The program will display a personalized **greeting message** based on your input.  
+
+#### **6 Exit and Modify**  
+- If needed, edit `Input Output Sample.cpp` to make changes.  
+- Save the file, **rebuild**, and run the program again!  
+
 ## Learning Resources  
 Interested in learning more about C++ input handling? Check out these resources:  
 - [C++ Input & Output (GeeksforGeeks)](https://www.geeksforgeeks.org/basic-input-output-c/)  
