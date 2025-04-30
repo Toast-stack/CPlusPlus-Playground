@@ -17,7 +17,6 @@ While following this tutorial, **minor tweaks** were made in the form of **code 
 ```cpp
 #include <string>    // Include the string library for handling text
 #include <iostream>  // Standard input-output library
-#include <algorithm> // Include algorithm library for reverse function
 using namespace std;
 
 int main() {
